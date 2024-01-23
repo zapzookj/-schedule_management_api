@@ -29,7 +29,7 @@ public class ScheduleService {
     }
 
     public List<ScheduleResponseDto> getSchedules() {
-        return scheduleRepository.findAll().stream().map(ScheduleResponseDto::new).toList();
+        return scheduleRepository.findAllByOrderByModifiedAtDesc().stream().map(ScheduleResponseDto::new).toList();
     }
     @Transactional
     public ScheduleResponseDto updateSchedule(Long id, ScheduleRequestDto requestDto) {
