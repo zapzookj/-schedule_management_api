@@ -19,4 +19,4 @@
         - 반환 받은 일정의 정보에 `비밀번호`는 제외 되어있습니다.
 
 ## 다이어그램
-![calender](https://github.com/zapzookj/-schedule_management_api/blob/master/src/main/resources/Use_Case_Diagram.drawio)
+![calender]([https://github.com/zapzookj/-schedule_management_api/blob/master/src/main/resources/Use_Case_Diagram.drawio](https://github.com/zapzookj/-schedule_management_api/blob/master/src/main/resources/Use_Case_Diagram.drawio.png)https://github.com/zapzookj/-schedule_management_api/blob/master/src/main/resources/Use_Case_Diagram.drawio.png)
