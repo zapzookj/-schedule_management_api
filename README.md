@@ -18,8 +18,8 @@
     - 수정된 일정의 정보를 반환 받아 확인할 수 있습니다.
         - 반환 받은 일정의 정보에 `비밀번호`는 제외 되어있습니다.
 
-## 다이어그램
+## API 명세서
 ![calender](https://github.com/zapzookj/-schedule_management_api/assets/154570825/caff07c0-41fb-4e47-b4ba-9b0623412c32)
 
-## API 명세서
+## 다이어그램
 ![image](https://github.com/zapzookj/-schedule_management_api/assets/154570825/301ac1c2-f90d-4313-b8a7-b823f447923a)
