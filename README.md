@@ -17,3 +17,6 @@
         - 선택한 일정의 `비밀번호`와 요청할 때 함께 보낸 `비밀번호`가 일치할 경우에만 수정이 가능합니다.
     - 수정된 일정의 정보를 반환 받아 확인할 수 있습니다.
         - 반환 받은 일정의 정보에 `비밀번호`는 제외 되어있습니다.
+
+## 다이어그램
+![calender](https://github.com/zapzookj/-schedule_management_api/blob/master/src/main/resources/Use_Case_Diagram.drawio)
